@@ -3,8 +3,3 @@
 - 🌱 I’m currently learning javascript/React.js
 - 💞️ I’m looking to collaborate on coding projects that will challenge me to stretch my skills
 - 📫 Reach me on instagram @onyii_amor or check out my page on github at https://github.com/Onyinyexyz
-
-<!---
-Onyinyexyz/Onyinyexyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
